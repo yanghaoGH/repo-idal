@@ -9,8 +9,9 @@ public class FistClass {
         System.out.println("hello git project");
         System.out.println("hello git project");
         System.out.println("hello git project");
+        test();
     }
-    public void test(){
+    public static void test(){
         System.out.println("新增了方法");
     }
 }
