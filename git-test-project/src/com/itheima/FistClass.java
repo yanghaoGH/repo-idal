@@ -14,4 +14,9 @@ public class FistClass {
     public static void test(){
         System.out.println("新增了方法");
     }
+    public static void add(){
+        int i = 10;
+        int j = 20;
+        System.out.println(i+j);
+    }
 }
